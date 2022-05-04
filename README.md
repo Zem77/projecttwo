@@ -18,7 +18,7 @@ To-do list:
 -Update UI with Angular Material
 
 Getting Started:
-git clone 
+git clone https://github.com/Zem77/projecttwo.git
 Run the Visual Studio API on your local machine. Run the database code on your local machine or a hosted
 database from a cloud. Make sure they are connected. Then run the angular side and experience our
 application! I'd like to thank all of those who have contributed to this application!
